@@ -1,23 +1,26 @@
 ---
-title: "I’m John Doe, A content writer based in LDN, Currently at Bookworm"
+title: "Hello. I'm Glen: The Wedding Speech Coach"
 meta_title: "About"
-image: "/images/author.png"
+image: "/images/glen-groom-speech_295x395.jpg"
 draft: false
 
 what_i_do:
-  title: "What I Do"
+  title: "My Credentials"
   items:
-  - title: "Content Writing"
-    description: "Purus eget ipsum elementum venenatis, quis rutrum mi semper nonpurus eget ipsum elementum venenatis."
+  - title: "Professional Writer"
+    description: "I worked as a professional script writer for several years across radio, television and online."
   
-  - title: "Photography"
-    description: "Aenean maximus urna magna elementum, quis rutrum mi semper non purus eget ipsum venenatis."
+  - title: "Ex-BBC Script Editor"
+    description: "I was a script editor for BBC Comedy, working with both new and established writers."
   
-  - title: "Web Research"
-    description: "Aenean maximus urna magna elementum venenatis, quis semper non purus eget ipsum venenatis."
+  - title: "Experienced Speaker"
+    description: "I'm a keen public speaker and past president of Bloomsbury Speakers in central London."
 
 ---
+Since 2012 I've helped countless people create knockout wedding speeches via this website and my speech coaching services.
 
-A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis quis non purus.
+**So if you're due to speak at a wedding, you're in the right place.**
 
-Purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis, aenean maximus urna magna elementum.
+You'll find plenty of information to help you on this site, but if you need a little extra help, just get in touch.
+
+Together we'll create an original speech that is rich with personal experience and detail – and genuinely entertaining.

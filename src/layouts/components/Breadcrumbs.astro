@@ -1,0 +1,22 @@
+---
+import { slugify, humanize } from "@/lib/utils/textConverter";
+import { GrHomeRounded } from "react-icons/gr";
+import { RiArrowRightSLine } from "react-icons/ri";
+
+const { post } = Astro.props;
+const category = post.data.categories[0];
+const guide_title = category;
+const guide_link = '/' + slugify(category);
+const nav_title = post.data.nav_title ? post.data.nav_title : (post.data.meta_title ? post.data.meta_title : post.data.title);
+---
+<div class="mb-2 font-normal">
+<a href="/">
+<span class="inline-block align-middle text-lg"><GrHomeRounded/></span>
+</a>
+<span class="inline-block align-middle px-1"><RiArrowRightSLine /></span>
+<a href={guide_link}>
+<span class="inline-block align-middle">{guide_title}</span>
+</a>
+<span class="inline-block align-middle px-1"><RiArrowRightSLine /></span>
+<span class="inline-block align-middle">{nav_title}</span>
+</div>

@@ -1,0 +1,20 @@
+---
+const { form_action, form_id } = Astro.props;
+---
+
+<form method="post" action={form_action} class="sendfox-form" id={form_id} data-async="true" data-recaptcha="false">
+<div>
+<label class="mb-2 block" for="sendfox_form_email">Enter your email address: </label>
+<input class="form-input w-full mb-4" type="email" id="sendfox_form_email" placeholder="Email" name="email" required />
+</div>
+<div>
+<label class="mb-2 block text-sm"><input class="form-input mr-4" type="checkbox" name="gdpr" value="1" required /> I consent to receiving emails from Wedding Speech Coach</label>
+</div>
+<!-- no botz please -->
+<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="a_password" tabindex="-1" value="" autocomplete="off" /></div>
+<div>
+<button class="btn btn-primary mt-2" type="submit">Yes! I Want the Resource Pack</button>
+</div>
+</form>
+<script is:inline src="https://sendfox.com/js/form.js"></script>
+<div class="content text-sm mt-4 italic">Shortly after submission, you should receive an email to confirm your request. Once you've done that, I'll send the resource pack right over!</div>

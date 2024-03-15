@@ -1,0 +1,7 @@
+---
+const { snippet } = Astro.props;
+const { Content } = await snippet.render();
+---
+<div class="content">
+  <Content />
+</div>

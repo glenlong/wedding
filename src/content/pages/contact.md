@@ -1,4 +1,4 @@
 ---
-title: "Contact"
+title: "Contact Me"
 draft: false
 ---

@@ -17,14 +17,14 @@
   },
   "fonts": {
     "font_family": {
-      "primary": "Mulish:wght@400;600;700",
-      "primary_type": "sans-serif",
+      "primary": "Merriweather:wght@400;600;700",
+      "primary_type": "serif",
       "secondary": "",
       "secondary_type": ""
     },
     "font_size": {
-      "base": "16",
-      "scale": "1.250"
+      "base": "18",
+      "scale": "1.1"
     }
   }
 }

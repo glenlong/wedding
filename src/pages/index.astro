@@ -1,22 +1,32 @@
 ---
 import config from "@/config/config.json";
+import Hubs from "@/layouts/Hubs.astro";
 import Base from "@/layouts/Base.astro";
 import Pagination from "@/layouts/components/Pagination.astro";
-import Posts from "@/layouts/Posts.astro";
 import { getSinglePage } from "@/lib/contentParser.astro";
 import { sortByDate } from "@/lib/utils/sortFunctions";
+import { markdownify } from "@/lib/utils/textConverter";
 
-const posts = await getSinglePage("posts");
-const sortedPosts = sortByDate(posts);
-const totalPages = Math.ceil(posts.length / config.settings.pagination);
+const hubs = await getSinglePage("hubs");
+const sortedPosts = sortByDate(hubs);
+const totalPages = Math.ceil(hubs.length / config.settings.pagination);
 const currentPosts = sortedPosts.slice(0, config.settings.pagination);
 ---
 
-<Base>
+<Base title={"Wedding Speech Coach"}>
   <section class="section">
-    <div class="container">
-      <Posts posts={currentPosts} className="mb-16" />
-      <Pagination currentPage={1} totalPages={totalPages} />
+    <div class="container text-center">
+      <div class="page-heading mb-8">
+        <h1>
+          Giving a Wedding Speech?
+        </h1>
+        <p class="mt-2 h4 font-normal">
+        Create a Unique and Memorable Speech that Everyone Loves<br/>
+        (and Makes You Look Like a Hero)
+        </p>
+      </div>
+      <div class="content mb-8">If you're giving a wedding speech, I’ve got you covered! Just click one of the roles below...</div>
+      <Hubs hubs={currentPosts} />
     </div>
   </section>
 </Base>

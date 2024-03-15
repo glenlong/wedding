@@ -1,0 +1,21 @@
+---
+import { markdownify } from "@/lib/utils/textConverter";
+import SendFoxForm from "@/layouts/components/SendFoxForm.astro";
+
+const { pack } = Astro.props;
+const { title, description, meta_title, image, form_action, form_id } = pack.data;
+const { Content } = await pack.render();
+---
+
+  <section class="section">
+    <div class="container">
+      <h1 set:html={markdownify(title)} class="h2 page-heading" >Resource Pack</h1>
+      <div class="content col-12 md:col-8 mx-auto">
+        <Content />
+      </div>
+      <div class="col-12 md:col-8 mx-auto bg-zinc-100 p-8 rounded-lg">
+        <SendFoxForm form_action={form_action} form_id={form_id} />
+      </div>   
+      </div>
+  </section>
+  

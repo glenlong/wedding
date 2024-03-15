@@ -1,0 +1,33 @@
+---
+import Base from "@/layouts/Base.astro";
+import { getSinglePage } from "@/lib/contentParser.astro";
+import PackSingle from "@/layouts/PackSingle.astro";
+
+export async function getStaticPaths() {
+  const packPages = await getSinglePage("packs");
+  
+  const paths = packPages.map((packPage: any) => ({
+    params: {
+      pack: packPage.slug,
+    },
+    props: { packPage },
+  }));
+  return paths;
+}
+
+const { packPage } = Astro.props;
+const { title, meta_title, description, image, noindex, form_action, form_id } = packPage.data;
+const { Content } = await packPage.render();
+---
+
+<Base
+  title={title}
+  meta_title={meta_title}
+  description={description}
+  image={image}
+  noindex={true}
+>
+
+  <PackSingle pack={packPage} />
+
+</Base>

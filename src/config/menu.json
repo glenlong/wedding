@@ -11,33 +11,6 @@
     {
       "name": "Contact",
       "url": "/contact"
-    },
-    {
-      "name": "Pages",
-      "url": "",
-      "hasChildren": true,
-      "children": [
-        {
-          "name": "Authors",
-          "url": "/authors"
-        },
-        {
-          "name": "Categories",
-          "url": "/categories"
-        },
-        {
-          "name": "Tags",
-          "url": "/tags"
-        },
-        {
-          "name": "Elements",
-          "url": "/elements"
-        },
-        {
-          "name": "Privacy Policy",
-          "url": "/privacy-policy"
-        }
-      ]
     }
   ],
   "footer": [
@@ -46,16 +19,20 @@
       "url": "/about"
     },
     {
+      "name": "Blog",
+      "url": "/blog"
+    },
+    {
       "name": "Contact",
       "url": "/contact"
     },
     {
-      "name": "Elements",
-      "url": "/elements"
+      "name": "Infographic",
+      "url": "/wedding-speeches-infographic"
     },
     {
       "name": "Privacy Policy",
-      "url": "/privacy-policy"
+      "url": "/privacy"
     }
   ]
 }
