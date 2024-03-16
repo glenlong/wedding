@@ -4,7 +4,7 @@ nav_title: "Wedding Speech Nerves"
 description: "Terrified of public speaking? Read this fear-busting guide on how to deliver your wedding speech without freezing, fainting or fleeing!"
 date: 2012-12-19
 image: "/images/posts/wedding-speech-nerves.jpg"
-categories: ["Public Speaking"]
+categories: [ ]
 tags: [ ]
 authors: ["Glen Long"]
 draft: false
