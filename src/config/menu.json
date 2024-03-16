@@ -6,33 +6,33 @@
     },
     {
       "name": "About",
-      "url": "/about"
+      "url": "/about/"
     },
     {
       "name": "Contact",
-      "url": "/contact"
+      "url": "/contact/"
     }
   ],
   "footer": [
     {
       "name": "About",
-      "url": "/about"
+      "url": "/about/"
     },
     {
       "name": "Blog",
-      "url": "/blog"
+      "url": "/blog/"
     },
     {
       "name": "Contact",
-      "url": "/contact"
+      "url": "/contact/"
     },
     {
       "name": "Infographic",
-      "url": "/wedding-speeches-infographic"
+      "url": "/wedding-speeches-infographic/"
     },
     {
       "name": "Privacy Policy",
-      "url": "/privacy"
+      "url": "/privacy/"
     }
   ]
 }

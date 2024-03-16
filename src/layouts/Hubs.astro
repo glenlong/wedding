@@ -16,7 +16,7 @@ const sortedHubs = sortByOrder(hubs);
         {hub.data.image && (
           <div class="mb-4">
           <a
-            href={`/${hub.slug}`}
+            href={`/${hub.slug}/`}
             class="block hover:text-primary transition duration-200"
           >
             <Image
@@ -31,10 +31,10 @@ const sortedHubs = sortByOrder(hubs);
         )}
         <h3 class="h4 mt-8 mb-3">
           <a
-            href={`/${hub.slug}`}
+            href={`/${hub.slug}/`}
             class="block hover:text-primary transition duration-200"
           >
-            {hub.data.meta_title}
+            {hub.data.nav_title}
           </a>
         </h3>
       </div>
