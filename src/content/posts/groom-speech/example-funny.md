@@ -1,6 +1,6 @@
 ---
 title: "Funny Groom Speech Example"
-description: "Here's a warm and witty groom speech written for an imaginary groom called Scott."
+description: "If you're looking for inspiration for your Groom speech, an example can help. Here's a warm and witty groom speech written for an imaginary groom called Scott."
 date: 2024-03-11
 image: "/images/posts/groom-speech-example-funny.jpg"
 categories: ["Groom Speech"]

@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy"
-description: "this is meta description"
+description: "Read our privacy policy to learn how we might collect, store, use, and/or process your information when you use our services."
 date: 2022-06-15
 draft: false
 ---

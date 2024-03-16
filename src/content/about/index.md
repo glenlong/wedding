@@ -1,6 +1,7 @@
 ---
 title: "Hello. I'm Glen: The Wedding Speech Coach"
 meta_title: "About Wedding Speech Coach"
+description: "Learn about the Wedding Speech Coach site and my credentials for helping soon-to-be fathers of the bride, grooms and best men create their perfect wedding speech."
 image: "/images/glen-groom-speech_295x395.jpg"
 draft: false
 

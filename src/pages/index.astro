@@ -13,7 +13,9 @@ const totalPages = Math.ceil(hubs.length / config.settings.pagination);
 const currentPosts = sortedPosts.slice(0, config.settings.pagination);
 ---
 
-<Base title={"Wedding Speech Coach"}>
+<Base title={config.site.title}
+      description={config.site.description}
+  >
   <section class="section">
     <div class="container text-center">
       <div class="page-heading mb-8">
