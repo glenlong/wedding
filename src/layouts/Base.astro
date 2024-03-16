@@ -1,4 +1,5 @@
 ---
+import FathomAnalytics from "@/components/FathomAnalytics.astro";
 import TwSizeIndicator from "@/components/TwSizeIndicator.astro";
 import config from "@/config/config.json";
 import theme from "@/config/theme.json";
@@ -168,6 +169,7 @@ const { title, meta_title, description, image, noindex, canonical } =
       }`}
     />
     <meta name="twitter:card" content="summary_large_image" />
+    <FathomAnalytics />
   </head>
   <body>
     <TwSizeIndicator />
