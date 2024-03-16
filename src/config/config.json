@@ -1,6 +1,7 @@
 {
   "site": {
-    "title": "Create a Unique and Memorable Wedding Speech | Wedding Speech Coach",
+    "title": "Wedding Speech Coach",
+    "description": "Get tips, templates, examples and FAQs to help you create a unique and memorable wedding speech that everyone loves (and makes you look like a total hero.)",
     "base_url": "https://www.weddingspeechcoach.com",
     "base_path": "/",
     "trailing_slash": true,

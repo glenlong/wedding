@@ -1,6 +1,6 @@
 ---
 title: "Hello. I'm Glen: The Wedding Speech Coach"
-meta_title: "About"
+meta_title: "About Wedding Speech Coach"
 image: "/images/glen-groom-speech_295x395.jpg"
 draft: false
 

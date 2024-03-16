@@ -36,17 +36,15 @@ For each prompt, scribble down the first thing that comes into your head. And do
 
 Understood? Great – let’s get going. Start the clock!
 
-# Writing an outline in 5 minutes
+## ⏳ Minute 1 – The Welcome
 
-### Minute 1 – The Welcome
-
-**About this section**
+#### About this section
 
 An important part of being the Father of the Bride is to act as the wedding host, officially welcoming guests to the wedding and setting a friendly tone for the occasion.
 
 So this section is about delivering a warm welcome and mentioning any special people.
 
-**What to do**
+#### What to do
 
 *Write the heading “The Welcome” and underline it.*
 
@@ -68,13 +66,13 @@ For example “I know Nana would have loved to see all the wonderful flowers”.
 
 *Write it down.*
 
-### Minutes 2 and 3 – The Bride
+## ⏳⏳ Minutes 2 and 3 – The Bride
 
-**About this section**
+#### About this section
 
 One of the most anticipated parts of the Father of the Bride speech is where he shares fond memories of his daughter growing up. Even people who know the bride well will love to hear stories from her childhood.
 
-**What to do**
+#### What to do
 
 *Write “The Bride” as a heading and underline it.*
 
@@ -100,9 +98,9 @@ You might be wondering why I’m asking you to think what each story tells us ab
 
 For example: “We realised quite early on that our daughter was a tough cookie. When she was just four she…”
 
-### Minute 4 – The Groom
+## ⏳ Minute 4 – The Groom
 
-**About this section**
+#### About this section
 
 Although the Father of the Bride speech tends to focus on the bride, it is also important to mention the groom and welcome him to your family.
 
@@ -120,15 +118,15 @@ Try to link this quality back to their marriage and think of an example of how h
 
 *Note this down too.*
 
-### Minute 5 – Words of Wisdom
+## ⏳Minute 5 – Words of Wisdom
 
-**About this section**
+#### About this section
 
 It is traditional to wrap up the Father of the Bride speech with a few words of wisdom to help the newlyweds enjoy a long and happy future together.
 
 This can be an opportunity for humour, but it’s always best to come up with some thoughts that are personal to you and your family, rather than using a stock line taken from the internet.
 
-**What to do**
+#### What to do
 
 *Write “Words of Wisdom”. Underline it.*
 
@@ -146,7 +144,7 @@ But if you do want to try something humorous, you could relate your ‘wise’ c
 
 For example you could give tongue-in-cheek advice to the groom about ‘handling’ his new bride, based on your experiences as her father.
 
-# And that’s it!
+## And that’s it!
 
 You’re done. Well, almost done.
 

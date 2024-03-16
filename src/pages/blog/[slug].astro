@@ -5,6 +5,7 @@ import Pagination from "@/layouts/components/Pagination.astro";
 import Posts from "@/layouts/Posts.astro";
 import { getSinglePage } from "@/lib/contentParser.astro";
 import { sortByDate } from "@/lib/utils/sortFunctions";
+import { getEntryBySlug } from "astro:content";
 
 export async function getStaticPaths() {
   const posts = await getSinglePage("posts");
@@ -30,15 +31,23 @@ const indexOfLastPost = currentPage * config.settings.pagination;
 const indexOfFirstPost = indexOfLastPost - config.settings.pagination;
 const currentPosts = sortedPosts.slice(indexOfFirstPost, indexOfLastPost);
 
-const title = 'Wedding Speech Coach Blog (Page ' + currentPage + ')';
+const entry = await getEntryBySlug("pages", "blog");
+const { Content } = await entry.render();
+const { title, description, meta_title } = entry.data;
+
+const expandedTitle = title + " (Page " + currentPage + ")";
 ---
 
 <Base
-  title={title}
+  title={expandedTitle}
+  description={description}
 >
   <section class="section">
     <div class="container">
-      <h1 class="mb-8" >{title}</h1>
+      <h1 class="mb-8" >{expandedTitle}</h1>
+      <div class="content">
+        <Content />
+      </div>
       <Posts className="mb-16" posts={currentPosts} fluid={false}/>
       <Pagination section="blog" totalPages={totalPages} currentPage={currentPage} />
     </div>
