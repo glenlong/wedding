@@ -2,6 +2,9 @@
 publish = "dist"
 command = "yarn build"
 
+[build.processing.html]
+pretty_urls = true	
+
 [[headers]]
 for = "/*" # This defines which paths this specific [[headers]] block will cover.
 
