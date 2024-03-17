@@ -7,6 +7,7 @@ image: "/images/posts/father-of-the-bride-speech-template.jpg"
 categories: ["Father of the Bride Speech"]
 tags: [ "Featured", "Template" ]
 authors: ["Glen Long"]
+show_cta: true
 draft: false
 ---
 If you're feeling at all daunted by the prospect of putting together your speech, the good news is that a solid structure will help keep you on track.

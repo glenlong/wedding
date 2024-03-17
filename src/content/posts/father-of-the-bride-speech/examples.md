@@ -6,6 +6,7 @@ image: "/images/posts/father-of-the-bride-speech-examples.jpg"
 categories: ["Father of the Bride Speech"]
 tags: ["Featured" ]
 authors: ["Glen Long"]
+show_cta: true
 draft: false
 ---
 Looking for speech examples? Don't worry, I've got you covered!
