@@ -169,7 +169,7 @@ const { title, meta_title, description, image, noindex, canonical } =
       }`}
     />
     <meta name="twitter:card" content="summary_large_image" />
-    <FathomAnalytics />
+    { import.meta.env.PROD && <FathomAnalytics /> }
   </head>
   <body>
     <TwSizeIndicator />
