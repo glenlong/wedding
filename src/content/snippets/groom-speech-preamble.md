@@ -1,7 +1,5 @@
-You’re getting married! And that means giving a Groom Speech at your upcoming wedding.
+You’re getting married! And that means giving a Groom Speech.
 
-It’s only natural that you might be wondering what to include in your speech and how to make sure it all goes to plan on the big day.
+It’s only natural to wonder what to include in your speech and how to make sure everything goes to plan.
 
-This definitive guide answers all the common questions on the mind of the average Groom-to-be and tells you everything else you need to know to ace it on the day.
-
-Ready to get started?
+This definitive guide answers all the common questions tells you what you need to know to ace it on the day.
