@@ -37,12 +37,13 @@ Once the thanks are out of the way you’ve fulfilled most of your obligations a
 
 ## Who does the Groom thank in his speech?
 
-- The Groom’s speech has a few different people he’s usually expected to thank in his speech:
-- The father of the bride for his speech (which normally occurs immediately before the Groom’s) and for any support he may have given to the couple for their wedding.
-- The wedding guests for attending the wedding and for their generous gifts.
-- The bridesmaids for their help and support on the big day (and in the days leading up to it) on behalf of the bride.
+The Groom’s speech has a few different people he’s usually expected to thank in his speech:
+
+- The father of the bride for his speech (which normally occurs immediately before the Groom’s) and for any support he may have given to the couple for their wedding
+- The wedding guests for attending the wedding and for their generous gifts
+- The bridesmaids for their help and support on the big day (and in the days leading up to it) on behalf of the bride
 - The best man for his help and support together with any other groomsmen
-- Both sets of parents for their love and support.
+- Both sets of parents for their love and support
 
 ## Who does the Groom toast?
 Although the groom has numerous people to thank, traditionally he only raises a formal toast to the bridesmaids. (Technically, this toast is supposed to be a response to the father of the bride’s toast to the bride and groom.)
