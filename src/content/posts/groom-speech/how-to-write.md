@@ -2,12 +2,11 @@
 title: "How to Write a Groom Speech"
 nav_title: "How to Write"
 description: "Wondering exactly how to write your groom speech? You're in the right place! Just follow these six simple steps."
-date: 2024-03-11
+date: 2024-03-27
 image: "/images/posts/groom-speech-how-to-write.jpg"
 categories: ["Groom Speech"]
 tags: [ "Featured" ]
 authors: ["Glen Long"]
-order: 0
 draft: false
 ---
 You're getting married! Many congratulations.
