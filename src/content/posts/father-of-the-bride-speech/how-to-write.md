@@ -1,5 +1,6 @@
 ---
 title: "How to Write a Father of the Bride Speech"
+nav_title: "How to Write"
 description: "Writing your speech is easier if you have a solid process. These proven steps will make writing your speech as painless as possible."
 date: 2020-03-01
 image: "/images/posts/father-of-the-bride-speech-how-to-write.jpg"
