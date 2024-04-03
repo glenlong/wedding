@@ -41,7 +41,7 @@ Use the following questions to guide you:
 
 - What memories from your daughter’s life stand out?
 - What are your daughter’s best (or most distinctive) qualities?
-- What do you want to say to your daughter on her special day? personally
+- What do you want to say to your daughter on her special day?
 - What would your wife or partner want you to say about your daughter?
 - What could you say about the groom and why he’s the perfect husband for her?
 
