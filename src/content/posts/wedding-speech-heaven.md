@@ -30,7 +30,7 @@ The answers to these questions and more can easily be discovered by talking to t
 
 This is probably the most important step because it generates the raw material you will use to create your wedding speech. Research in this context does not mean a trip down the library - it simply means collecting information and stories that you can use in your speech. Sometimes this just means digging through your own memories but can also include talking to other people.
 
-Remember, each of the main speeches tends to focus primarily on a particular person. For example the best man speech generally focuses on the groom. The father of the bride speech not surprisingly shines a spotlight on the bride.
+Remember, each of the main speeches tends to focus primarily on a particular person. For example the Best Man speech generally focuses on the Groom. The Father of the Bride speech not surprisingly shines a spotlight on the Bride.
 
 So firstly, do a brain dump of information about your target individual. Make a note of their likes, dislikes, strengths, weaknesses and any memories of them that stand out. Try not to rule out anything at this stage – the aim is simply to generate as much raw material as possible.
 
@@ -42,11 +42,11 @@ Remember, the more raw material you gather during this step the easier the rest 
 
 The best wedding speeches are not simply a random collection of fond observations. The best speeches organise the content in a way that is meaningful and easy to follow using a central theme or simple structure.
 
-The theme can be very simple, e.g. growing up. In this case a father of the bride could divide his speech into chapters covering the main stages of his daughter's life: baby, young child, teenager, etc.
+The theme can be very simple, e.g. growing up. In this case a Father of the Bride could divide his speech into chapters covering the main stages of his daughter's life: baby, young child, teenager, etc.
 
 Or he might look at her from 3 different perspectives: as a daughter, as a sister, and as a career woman.
 
-Sometimes a theme will lead naturally to an interesting structure. A best man talking about a groom passionate about music might organise his speech as a Top 10 Greatest 'Hits' of his life.
+Sometimes a theme will lead naturally to an interesting structure. A Best Man talking about a Groom passionate about music might organise his speech as a Top 10 Greatest 'Hits' of his life.
 
 Whatever approach you adopt, take inspiration from the information you've assembled in the Research phase. With any luck a structure or central theme will suggest itself from your research.
 
@@ -56,7 +56,7 @@ This is where you go back to your research and start choosing bits of informatio
 
 This involves filtering the ideas through the prism of your main theme. Viewed in this way some ideas just won't fit but that's fine. Don't throw them out – you might find a way to  make them work or you may decide to change your structure.
 
-This step is also where you will start looking for opportunities to add humour to your speech. Most wedding speeches can be enhanced by the use of humour and of course some – such as the best man speech – are generally expected to be funny.
+This step is also where you will start looking for opportunities to add humour to your speech. Most wedding speeches can be enhanced by the use of humour and of course some – such as the Best Man speech – are generally expected to be funny.
 
 Finding the humour is not about cramming other people's jokes into the speech but about highlighting genuinely amusing chapters from the person's life and also finding unusual or unexpected connections between different pieces of information.
 

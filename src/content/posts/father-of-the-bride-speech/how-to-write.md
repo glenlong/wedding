@@ -43,7 +43,7 @@ Use the following questions to guide you:
 - What are your daughter’s best (or most distinctive) qualities?
 - What do you want to say to your daughter on her special day?
 - What would your wife or partner want you to say about your daughter?
-- What could you say about the groom and why he’s the perfect husband for her?
+- What could you say about the Groom and why he’s the perfect husband for her?
 
 For capturing your ideas you can keep things “old school” and use pen and paper or open a blank document on your computer.
 
@@ -58,7 +58,7 @@ Review both the “short and sweet” outline and our comprehensive speech templ
 If you opt for the latter, consider the best way to organize the stories that will form the heart of your speech. You have several options here:
 
 - **Chronological**: tell your stories in the order that they happened, from early life to adulthood.
-- **Roles**: pick stories that illustrate specific roles the bride plays in her life, e.g., as a daughter, as a sister, as a friend, etc.
+- **Roles**: pick stories that illustrate specific roles the Bride plays in her life, e.g., as a daughter, as a sister, as a friend, etc.
 - **Qualities**: pick stories that illustrate certain qualities of her you want to highlight, e.g., her loyalty, her sense of , her determination, etc. humour
 
 Once you have a target structure either write corresponding headings on a piece of paper or type them into a blank document on your computer.

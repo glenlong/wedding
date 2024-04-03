@@ -71,7 +71,7 @@ All people will expect is that you give it your best shot on the day, and have p
 
 For some reason, when faced with the prospect of giving a speech, many wedding speakers seem to think they need to transform themselves into someone completely different.
 
-The best man tries to become a standup comedian, the father of the bride suddenly sounds like he's swallowed a dictionary; and even the groom seems to have turned into a poet overnight.
+The Best Man tries to become a standup comedian, the Father of the Bride suddenly sounds like he's swallowed a dictionary; and even the Groom seems to have turned into a poet overnight.
 
 Pretending to be someone you're not is a major cause of wedding speech anxiety because it doesn't feel natural and deep down you're afraid of looking stupid.
 

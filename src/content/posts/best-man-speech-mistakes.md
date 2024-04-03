@@ -1,7 +1,7 @@
 ---
 title: "10 Best Man Speech Mistakes That Make You Look Like An Idiot"
 nav_title: "Best Man Speech Mistakes"
-description: "Giving a best man speech is a great honour - so try not to screw it up! Discover these common mistakes so you can avoid looking like an idiot."
+description: "Giving a Best Man speech is a great honour - so try not to screw it up! Discover these common mistakes so you can avoid looking like an idiot."
 date: 2012-11-21
 image: "/images/posts/best-man-speech-mistakes.jpg"
 categories: ["Best Man Speech"]
@@ -13,11 +13,11 @@ It's a great honour to be given the role of Best Man at your friend's wedding bu
 
 Whatever else is on your mind as the big day approaches, you must surely be hoping this: **that you don't let your best friend down**.
 
-Here's my guide to some of the most common best man speech mistakes so you can learn to identify - and avoid! - them.
+Here's my guide to some of the most common Best Man speech mistakes so you can learn to identify - and avoid! - them.
 
 ## Mistake #1: Lack of preparation
 
-While it's only human nature to leave daunting tasks to the last minute, there's nothing more likely to undermine your best man speech than a lack of preparation.
+While it's only human nature to leave daunting tasks to the last minute, there's nothing more likely to undermine your Best Man speech than a lack of preparation.
 
 This is compounded by the fact that as the wedding approaches, your spare time is more and more likely to be taken up by other wedding activities. So, you promise yourself you'll definitely get your speech done the weekend before the wedding, only to find there's also a suit fitting and a wedding rehearsal to contend with!
 
@@ -33,13 +33,13 @@ You might feel that that you don't have the ability or experience to create a sp
 
 By all means use resources available on the internet and in books to learn how to give your speech a good opening, strong structure, etc. but make sure that the bulk of the content is your own.
 
-Because even if a pre-written speech is used with the best of intentions, sadly the guests (and the groom) will probably just think you could not be bothered to take the time to write something personal.
+Because even if a pre-written speech is used with the best of intentions, sadly the guests (and the Groom) will probably just think you could not be bothered to take the time to write something personal.
 
 ## Mistake #3: Forgetting to be yourself
 
 If you haven't given a speech before it's easy to think that you have to write and speak a certain way to be taken seriously. You subconsciously think you have to become your own personal stereotype of a good speaker.
 
-However, you've been chosen because of who you are to the groom - not for your public speaking skills - so take this advice:
+However, you've been chosen because of who you are to the Groom - not for your public speaking skills - so take this advice:
 
 - Don't write a speech with lots of fancy language if that's not normally the way you speak. It will be difficult for you to deliver and may come across as inauthentic.
 - If you're not known for your sense of humour, don't try to give a gag-filled speech - just rely on a few wry observations.
@@ -49,19 +49,19 @@ If the speech is authentically you, and it's clear you've put some effort into y
 
 ## Mistake 4: Relying on In-Jokes
 
-As best man you'll likely enjoy a close relationship with the groom, but don't forget that not everyone present will know him quite as well as you.
+As Best Man you'll likely enjoy a close relationship with the Groom, but don't forget that not everyone present will know him quite as well as you.
 
-A great best man's speech is one everyone can enjoy - not one that has the "in crowd" chuckling but everyone else shrugging their shoulders.
+A great Best Man's speech is one everyone can enjoy - not one that has the "in crowd" chuckling but everyone else shrugging their shoulders.
 
-So for each part of your speech, think to yourself: "Will this make sense to, say, the bride's sister? Or the groom's auntie from overseas?" It's in your own interest not to exclude any of the guests as you'll get a much better response if everyone stays with you.
+So for each part of your speech, think to yourself: "Will this make sense to, say, the Bride's sister? Or the Groom's auntie from overseas?" It's in your own interest not to exclude any of the guests as you'll get a much better response if everyone stays with you.
 
 That doesn't mean you have to scratch your hilarious one-liner that evokes the time your friend was attacked by a duck, but you might want to set it up for people who aren't familiar with the story.
 
 ## Mistake #5: Going Too Far
 
-It's part of the wedding tradition for the best man to embarrass the groom in his speech, and a groom who feels totally comfortable throughout has probably been given too easy a ride.
+It's part of the wedding tradition for the Best Man to embarrass the Groom in his speech, and a Groom who feels totally comfortable throughout has probably been given too easy a ride.
 
-However, it's a delicate balancing act and going too far will make everyone feel awkward - not just the groom.
+However, it's a delicate balancing act and going too far will make everyone feel awkward - not just the Groom.
 
 Also remember that at most weddings the guests come from a wide age range - from young children to elderly relatives - and subject matter and tone suitable for your inner circle might well not be suitable for them too.
 
@@ -69,15 +69,15 @@ So try to keep the content as clean as possible, and if you really can't resist 
 
 ## Mistake #6: Upsetting The Bride
 
-This is probably the cardinal sin of the best man speech. It's one thing to give your best friend a hard time but nothing will turn the crowd against you quicker than upsetting the bride.
+This is probably the cardinal sin of the Best Man speech. It's one thing to give your best friend a hard time but nothing will turn the crowd against you quicker than upsetting the Bride.
 
-It should be obvious, but any references to the bride should paint her in a positive light. Do not try to get laughs at her expense - even if you think you're being gentle and you're sure she won't mind. Yes she might a self-confessed control freak, but she probably won't thank you for mentioning it in front of absolutely everybody.
+It should be obvious, but any references to the Bride should paint her in a positive light. Do not try to get laughs at her expense - even if you think you're being gentle and you're sure she won't mind. Yes she might a self-confessed control freak, but she probably won't thank you for mentioning it in front of absolutely everybody.
 
-But it would also be a mistake to not mention the bride at all. You could have a gentle dig at the groom about a perceived weakness of his and then explain how she perfectly compensates. For example you might tell a story which reveals his terrible sense of direction, but then say that fortunately his bride seems to have a built in compass!
+But it would also be a mistake to not mention the Bride at all. You could have a gentle dig at the Groom about a perceived weakness of his and then explain how she perfectly compensates. For example you might tell a story which reveals his terrible sense of direction, but then say that fortunately his Bride seems to have a built in compass!
 
 ## Mistake #7: Getting (too) drunk
 
-Yes - at most weddings alcohol will be flowing from fairly early on. And yes - a drink or two might give you a little "Dutch courage" to help you get through your speech. But a drunken, slurring best man reflects badly not just on you, but also the groom and the rest of the bridal party.
+Yes - at most weddings alcohol will be flowing from fairly early on. And yes - a drink or two might give you a little "Dutch courage" to help you get through your speech. But a drunken, slurring Best Man reflects badly not just on you, but also the Groom and the rest of the bridal party.
 
 Try to avoid having more than one or two drinks until the speeches are over. At the very least drink water between any alcoholic drinks.
 
@@ -91,17 +91,17 @@ Feel free to mention the other speakers in a positive light though. Simply sayin
 
 ## Mistake #9: Forgetting essential duties
 
-The exact will vary from wedding to wedding, but traditionally there are certain important duties the best man is expected to cover in his speech.
+The exact will vary from wedding to wedding, but traditionally there are certain important duties the Best Man is expected to cover in his speech.
 
-Forget these and either important details are missed out altogether or you'll have the bride or groom prompting you awkwardly from the wings.
+Forget these and either important details are missed out altogether or you'll have the Bride or Groom prompting you awkwardly from the wings.
 
 The duties might include:
 
-- Officially thanking the groom for his toast to the bridesmaids
+- Officially thanking the Groom for his toast to the Bridesmaids
 - Reading messages from friends and family who weren't able to attend
-- Proposing a toast to the bridge and groom
+- Proposing a toast to the Bride and Groom
 
-Just be aware what you need to cover (confirm this with the groom before the wedding) and make yourself a checklist.
+Just be aware what you need to cover (confirm this with the Groom before the wedding) and make yourself a checklist.
 
 ### Mistake #10: Going on and on
 
@@ -109,4 +109,4 @@ Let's face it, at most weddings the speeches aren't tremendously good, and they 
 
 Regardless of the quality of your speech, the guests will certainly thank you for keeping it nice and short. Even if your speech is going down well, you may be seen as self-indulgent if you go on longer than people expect.
 
-As a guide, 5-10 minutes is a good length for a best man speech. Much less and we'll feel a little cheated, much more and you're really starting to test our stamina - remember you're not the only one speaking!
+As a guide, 5-10 minutes is a good length for a Best Man speech. Much less and we'll feel a little cheated, much more and you're really starting to test our stamina - remember you're not the only one speaking!

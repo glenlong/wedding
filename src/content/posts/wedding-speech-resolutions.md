@@ -35,7 +35,7 @@ People speak at different rates but as a general rule if your speech is more tha
 
 ## 3) I will not use second-hand wedding jokes
 
-Wedding speeches - in particular the best man's speech - are often expected to be humorous. And while there are plenty of wedding-related jokes to be found on the internet, most of them have been used so often that many guests will have heard them before.
+Wedding speeches - in particular the Best Man's speech - are often expected to be humorous. And while there are plenty of wedding-related jokes to be found on the internet, most of them have been used so often that many guests will have heard them before.
 
 It's much better to derive humour from real stories and personal knowledge, than to simply recycle jokes from elsewhere (many of which are horribly out-of-date in terms of tone anyway).
 
@@ -45,11 +45,11 @@ If you're not a natural comedian, don't worry. Wry observations and gentle exagg
 
 Each of the main wedding speeches is an opportunity to thank people:
 
-- the father of the bride thanks the guests for coming to the wedding
-- the groom thanks everyone who made the day possible
-- the best man thanks the bride and groom for any gifts on behalf of the wedding party
+- the Father of the Bride thanks the guests for coming to the wedding
+- the Groom thanks everyone who made the day possible
+- the Best Man thanks the Bride and Groom for any gifts on behalf of the wedding party
 
-Make a list early on of everyone you need to thank - particularly if you're the groom.
+Make a list early on of everyone you need to thank - particularly if you're the Groom.
 
 Forgetting to thank someone important on the day risks making them feel neglected - and you'll feel bad later on when you realise your mistake.
 

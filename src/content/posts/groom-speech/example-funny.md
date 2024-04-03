@@ -1,6 +1,6 @@
 ---
 title: "Funny Groom Speech Example"
-description: "If you're looking for inspiration for your Groom speech, an example can help. Here's a warm and witty groom speech written for an imaginary groom called Scott."
+description: "If you're looking for inspiration for your Groom speech, an example can help. Here's a warm and witty Groom speech written for an imaginary Groom called Scott."
 date: 2024-03-11
 image: "/images/posts/groom-speech-example-funny.jpg"
 categories: ["Groom Speech"]
@@ -10,11 +10,11 @@ draft: false
 ---
 If you're looking for inspiration for your Groom speech, an example can help.
 
-Here's a warm and witty groom speech written for an imaginary groom called Scott.
+Here's a warm and witty Groom speech written for an imaginary Groom called Scott.
 
 > Thank you Mike for your kind toast and for your wonderful speech. To be honest you’ve set the bar quite high there. I thought we agreed you were going to be a bit rubbish to make me look good.
 > 
-> Oh well, soldiering on... Hello everyone! I’m Scott and I’m the groom. If you didn’t know that already there’s a good chance you’re at the wrong wedding. But you’re here now, so you might as well stay for the cake.
+> Oh well, soldiering on... Hello everyone! I’m Scott and I’m the Groom. If you didn’t know that already there’s a good chance you’re at the wrong wedding. But you’re here now, so you might as well stay for the cake.
 > 
 > Before I get into the thank yous, I just wanted to say, doesn’t Sarah look absolutely stunning today everyone? I honestly feel like I’ve won the lottery. And not just a two-quid scratchcard – the proper lottery.
 > 
@@ -28,7 +28,7 @@ Here's a warm and witty groom speech written for an imaginary groom called Scott
 > 
 > Next I want to thank my own Mum and Dad, Robert and Julie. You know I’m not good at speaking from the heart but I love you both to bits. Thank you for all the help and support you’ve given me over the years. I know I’m not always the easiest person to deal with but on the plus side raising me must have been very character-building for you both. No need to thank me for that - you’re welcome.
 > 
-> Moving to Jason, thanks for agreeing to be my best man, mate. We’ve known each other since we were five so you couldn’t really say no. Thank you for all the scrapes you’ve got me out of over the years, even though it was you who got me into most of them in the first place.
+> Moving to Jason, thanks for agreeing to be my Best Man, mate. We’ve known each other since we were five so you couldn’t really say no. Thank you for all the scrapes you’ve got me out of over the years, even though it was you who got me into most of them in the first place.
 > 
 > And thanks for organizing the stag do. I look forward to catching up over a beer so you can tell me where we went and what we did. Things are a little bit hazy...
 > 
@@ -38,7 +38,7 @@ Here's a warm and witty groom speech written for an imaginary groom called Scott
 > 
 > Naomi, thank you for being Sarah’s Maid of Honour and helping keep her calm and sane over the last few days. I know from experience that’s not an easy task. And thanks for organizing a hen do that didn’t involve male strippers or butlers in the buff or anything like that. Or at least, for doing an excellent job of hiding it from me.
 > 
-> Thanks to the other bridesmaids too, Kelly, Sam and Gabrielle. You all look gorgeous. Am I allowed to say that now? Just the once apparently. Well thanks for all your help and support anyway. We have a little something here for you too.
+> Thanks to the other Bridesmaids too, Kelly, Sam and Gabrielle. You all look gorgeous. Am I allowed to say that now? Just the once apparently. Well thanks for all your help and support anyway. We have a little something here for you too.
 > 
 > Finally our sincere thanks to everyone else who helped make today run smoothly. I’d love to mention you all individually but I don’t want this to turn into one of those three-hour Oscar acceptance type speeches.
 > 
@@ -67,6 +67,6 @@ Here's a warm and witty groom speech written for an imaginary groom called Scott
 > 
 > Sarah, you look absolutely gorgeous today and I’m so proud to be able to call you my wife. I love you for your sense of adventure, your silly jokes, your kindness, your boundless generosity and most of all for being my best friend. You make me happy every single day and I’m looking forward to spending the rest of my life with you.
 > 
-> As tradition dictates, before handing over to Jason – and be kind, Jason, be kind – I’d like to raise a toast to our wonderful bridesmaids.
+> As tradition dictates, before handing over to Jason – and be kind, Jason, be kind – I’d like to raise a toast to our wonderful Bridesmaids.
 > 
-> So ladies and gentlemen, would you please join me in raising your glasses to… the bridesmaids!
+> So ladies and gentlemen, would you please join me in raising your glasses to… the Bridesmaids!

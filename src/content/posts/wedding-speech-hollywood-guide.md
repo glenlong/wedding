@@ -37,15 +37,15 @@ So here's my **Hollywood Guide to a Blockbuster Wedding Speech**...
 
 ## Ingredient #1: Big Stars
 
-In Hollywood, having the right actor's name on the poster can almost guarantee your film's success. But at a wedding, the only headline stars you need to worry about are the bride and groom.
+In Hollywood, having the right actor's name on the poster can almost guarantee your film's success. But at a wedding, the only headline stars you need to worry about are the Bride and Groom.
 
-So don't forget that the focus of your wedding speech should be one of those two people. Yes you need to make sure you don't neglect essential duties - such as thanking people or reading out messages - but the hero or heroine of your wedding speech should be the bride or groom.
+So don't forget that the focus of your wedding speech should be one of those two people. Yes you need to make sure you don't neglect essential duties - such as thanking people or reading out messages - but the hero or heroine of your wedding speech should be the Bride or Groom.
 
-So for instance, if you're giving the father of the bride speech, make sure you mostly talk about your daughter, the bride. Even if you've got a really good story about one of her siblings that seems relevant - save it for another time. Today the spotlight should be on her.
+So for instance, if you're giving the Father of the Bride speech, make sure you mostly talk about your daughter, the Bride. Even if you've got a really good story about one of her siblings that seems relevant - save it for another time. Today the spotlight should be on her.
 
-If you're giving the best man's speech, don't spend too much time trying to get laughs with generic wedding jokes - you should be talking about the groom and your history as friends and deriving any humour from there.
+If you're giving the Best Man's speech, don't spend too much time trying to get laughs with generic wedding jokes - you should be talking about the Groom and your history as friends and deriving any humour from there.
 
-And if you're giving the groom speech, don't spend too much time talking about yourself - even if you have some great stories about what life was like before meeting your bride.
+And if you're giving the Groom speech, don't spend too much time talking about yourself - even if you have some great stories about what life was like before meeting your Bride.
 
 ## Ingredient #2: A Popular Genre
 
@@ -73,11 +73,11 @@ One theory holds that there are [ten major movies themes](http://thescriptlab.co
 
 **But how does this help when writing a wedding speech?**
 
-Well, if for instance the groom is infamous for getting himself into all sorts of trouble, his best man could tell it as a *Man vs. Himself* story, i.e. the groom is his own worst enemy but finally someone (his bride) has come to save him from himself.
+Well, if for instance the Groom is infamous for getting himself into all sorts of trouble, his Best Man could tell it as a *Man vs. Himself* story, i.e. the Groom is his own worst enemy but finally someone (his Bride) has come to save him from himself.
 
-Or if the groom pursued his future bride for many months before finally winning her heart, he could fashion his groom speech as a *Triumph Over Adversity* tale.
+Or if the Groom pursued his future Bride for many months before finally winning her heart, he could fashion his Groom speech as a *Triumph Over Adversity* tale.
 
-Or if the father-of-the-bride was widely known to have disapproved of some of his daughter's previous boyfriends, he could spin his wedding speech as a tongue-in-cheek *Good vs Evil* story where he is heroically 'fighting off' unsuitable suitors.
+Or if the father-of-the-Bride was widely known to have disapproved of some of his daughter's previous boyfriends, he could spin his wedding speech as a tongue-in-cheek *Good vs Evil* story where he is heroically 'fighting off' unsuitable suitors.
 
 ## Ingredient #4: A Strong Opening
 
@@ -99,11 +99,11 @@ The perfect way to start a speech depends on the speech and the speaker, but it 
 
 Not all great films have happy endings but most do and your wedding speech certainly should.
 
-The best man speech should mention how happy the bride has made his friend, and show great optimism for that happiness to continue long into the future. This sentiment is cemented by the best man's toast to the bride and groom.
+The Best Man speech should mention how happy the Bride has made his friend, and show great optimism for that happiness to continue long into the future. This sentiment is cemented by the Best Man's toast to the Bride and Groom.
 
-By the end of the groom's speech it should be clear how happy the bride has made him and might end with a commitment to keep her happy too.
+By the end of the Groom's speech it should be clear how happy the Bride has made him and might end with a commitment to keep her happy too.
 
-The father of the bride's speech should leave us in no doubt that he feels a great match has been made between his daughter and her groom. It could even end with some tips from an "old pro" about how to keep a long and happy marriage going forward.
+The Father of the Bride's speech should leave us in no doubt that he feels a great match has been made between his daughter and her Groom. It could even end with some tips from an "old pro" about how to keep a long and happy marriage going forward.
 
 **So that's my Hollywood Guide to a Blockbuster Wedding Speech.**
 

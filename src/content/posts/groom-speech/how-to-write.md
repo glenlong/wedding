@@ -1,7 +1,7 @@
 ---
 title: "How to Write a Groom Speech"
 nav_title: "How to Write"
-description: "Wondering exactly how to write your groom speech? You're in the right place! Just follow these six simple steps."
+description: "Wondering exactly how to write your Groom speech? You're in the right place! Just follow these six simple steps."
 date: 2024-03-27
 image: "/images/posts/groom-speech-how-to-write.jpg"
 categories: ["Groom Speech"]
@@ -11,13 +11,13 @@ draft: false
 ---
 You're getting married! Many congratulations.
 
-But in addition to the excitement, I’ll bet that nerves about giving your groom speech are kicking in.
+But in addition to the excitement, I’ll bet that nerves about giving your Groom speech are kicking in.
 
 Not only do you have to speak in front of all your friends and family, but there's also an entire speech to write first!
 
 Fortunately, writing your speech is not too difficult, as long as you leave enough time to prepare and you follow a structured approach.
 
-Following the steps below will make writing your groom speech as painless as possible.
+Following the steps below will make writing your Groom speech as painless as possible.
 
 ## Step 1: Clarify the Important Details
 
@@ -128,7 +128,7 @@ Once you're happy with how it reads aloud, consider doing a practice run with a 
 
 ## Go Write Your Groom Speech!
 
-Now you know how you write your groom speech, you can just follow these steps and you'll have a heartfelt, well-structured groom speech in no time.
+Now you know how you write your Groom speech, you can just follow these steps and you'll have a heartfelt, well-structured Groom speech in no time.
 
 The most important thing is to start early and break the task down into manageable steps.
 

@@ -27,7 +27,7 @@ Raw material is the fuel for any good wedding speech. If you've found yourself s
 
 The answer is: Research.
 
-It could be as simple as sitting down with a notepad and searching your memories for incidents and stories relating to the bride or groom
+It could be as simple as sitting down with a notepad and searching your memories for incidents and stories relating to the Bride or Groom
 
 Or it could mean digging through old photo albums, text messages or Facebook posts.
 
@@ -45,7 +45,7 @@ This is because speakers with little time to spare often seek inspiration from t
 
 While a basic proven structure is a good thing, it's a real shame to just follow the masses, because there is plenty of room for doing something a little different in the main body of the speech.
 
-For example, you could pick an original theme for your speech, with all the stories neatly reinforcing that theme. Or use song titles from the bride or groom's favourite band to inspire different 'chapters' in your speech. Or tell the story of the bride or groom's life in the style of a fairytale.
+For example, you could pick an original theme for your speech, with all the stories neatly reinforcing that theme. Or use song titles from the Bride or Groom's favourite band to inspire different 'chapters' in your speech. Or tell the story of the Bride or Groom's life in the style of a fairytale.
 
 Of course, if you've left it perilously close to the big day to start work on your wedding speech, there's no time to let your imagination run riot.
 

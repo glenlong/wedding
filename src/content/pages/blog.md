@@ -1,6 +1,6 @@
 ---
 title: "Latest from the Blog"
-description: "Read my latest articles about creating a unique and memorable wedding speech. Essential reading for grooms, fathers of the bride, best men and more!"
+description: "Read my latest articles about creating a unique and memorable wedding speech. Essential reading for Grooms, Fathers of the Bride, best men and more!"
 draft: false
 ---
 

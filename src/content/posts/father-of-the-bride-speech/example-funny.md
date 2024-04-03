@@ -1,6 +1,6 @@
 ---
 title: "Funny Father of the Bride Speech Example"
-description: "Here's a gently humorous father of the bride speech example for you to study. Just don't copy it word for word!"
+description: "Here's a gently humorous Father of the Bride speech example for you to study. Just don't copy it word for word!"
 date: 2020-03-01
 image: "/images/posts/father-of-the-bride-speech-example-funny.jpg"
 categories: ["Father of the Bride Speech"]
@@ -59,4 +59,4 @@ Here's a gently humorous Father of the Bride Speech sample I wrote for you to st
 > 
 > Sarah, I'm so proud to be your Dad. Scott, it's my great pleasure to welcome you into our family.
 > 
-> So ladies and gentlemen, it's time for a toast. Would you please be upstanding and raise your glasses to Sarah and Scott, the bride and groom!
+> So ladies and gentlemen, it's time for a toast. Would you please be upstanding and raise your glasses to Sarah and Scott, the Bride and Groom!

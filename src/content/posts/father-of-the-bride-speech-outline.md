@@ -70,7 +70,7 @@ For example “I know Nana would have loved to see all the wonderful flowers”.
 
 #### About this section
 
-One of the most anticipated parts of the Father of the Bride speech is where he shares fond memories of his daughter growing up. Even people who know the bride well will love to hear stories from her childhood.
+One of the most anticipated parts of the Father of the Bride speech is where he shares fond memories of his daughter growing up. Even people who know the Bride well will love to hear stories from her childhood.
 
 #### What to do
 
@@ -90,11 +90,11 @@ Now think of a story of her as an older child, maybe a teen.
 
 *Make a note to remind you and also write down one or two words about what it says about her as a person.*
 
-Finally think of a story from her adult life – it could be about her meeting the groom.
+Finally think of a story from her adult life – it could be about her meeting the Groom.
 
 *Write it down.*
 
-You might be wondering why I’m asking you to think what each story tells us about the bride. This is simply because it gives you a neat way of introducing each story in your speech.
+You might be wondering why I’m asking you to think what each story tells us about the Bride. This is simply because it gives you a neat way of introducing each story in your speech.
 
 For example: “We realised quite early on that our daughter was a tough cookie. When she was just four she…”
 
@@ -102,7 +102,7 @@ For example: “We realised quite early on that our daughter was a tough cookie.
 
 #### About this section
 
-Although the Father of the Bride speech tends to focus on the bride, it is also important to mention the groom and welcome him to your family.
+Although the Father of the Bride speech tends to focus on the Bride, it is also important to mention the Groom and welcome him to your family.
 
 **What to do**
 
@@ -142,7 +142,7 @@ This would normally be heartfelt advice for future happiness based on your own e
 
 But if you do want to try something humorous, you could relate your ‘wise’ comments back to the earlier observations and stories about your daughter.
 
-For example you could give tongue-in-cheek advice to the groom about ‘handling’ his new bride, based on your experiences as her father.
+For example you could give tongue-in-cheek advice to the Groom about ‘handling’ his new Bride, based on your experiences as her father.
 
 ## And that’s it!
 
@@ -150,7 +150,7 @@ You’re done. Well, almost done.
 
 *Write “The Toast” on your paper* – and now you’re really done.
 
-(The toast is simply where ask guests to raise their glasses and toast the bride and groom.)
+(The toast is simply where ask guests to raise their glasses and toast the Bride and Groom.)
 
 You should now be looking at a rough outline for your speech. Well done!
 

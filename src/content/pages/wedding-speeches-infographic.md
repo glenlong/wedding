@@ -1,6 +1,6 @@
 ---
 title: "Wedding Speech Infographic"
-description: "Due to give a wedding speech but confused about who does and says what? Check out this visual guide to the best man, groom and father of the bride speeches."
+description: "Due to give a wedding speech but confused about who does and says what? Check out this visual guide to the Best Man, Groom and Father of the Bride speeches."
 date: 2013-01-30
 darf: false
 ---

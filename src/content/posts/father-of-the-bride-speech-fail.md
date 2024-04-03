@@ -26,7 +26,7 @@ Avoid these like the plague - or follow them to the letter if you're still deter
 
 ## 1. Making It All About You
 
-Yes of course the focus of any wedding is the bride and groom, but let's not forget, you've played an important part too. So make sure your Father of the Bride speech plays up your role as the generous host of the whole event.
+Yes of course the focus of any wedding is the Bride and Groom, but let's not forget, you've played an important part too. So make sure your Father of the Bride speech plays up your role as the generous host of the whole event.
 
 Even if you haven't paid for the whole thing (which you probably have) it's important that guests at least get a sense of your important contribution, so why not point out a few of the things that wouldn’t have been possible without your help (or more likely, money)?
 
@@ -36,9 +36,9 @@ Your Father of the Bride speech should practically demand recognition and respec
 
 ## 2. Embarrassing The Bride
 
-We all know it's the best man's job to embarrass the groom in his speech. Humiliating details from his past are the jewels in the crown of the best man speech - that's Wedding Speech 101.
+We all know it's the Best Man's job to embarrass the Groom in his speech. Humiliating details from his past are the jewels in the crown of the Best Man speech - that's Wedding Speech 101.
 
-But is it really fair if the groom gets dragged across the coals by his best man while the bride remains completely unscathed?
+But is it really fair if the Groom gets dragged across the coals by his Best Man while the Bride remains completely unscathed?
 
 After all, she’s got a few amusing skeletons in the closet too. And who better to dig them out than the first (and some would say most important) man in her life - her father?
 
@@ -56,7 +56,7 @@ So why not finally get started on that secret dream of becoming a **standup come
 
 Wedding guests are supposed to be the friendliest crowd in the world, so what better day to try out some of those hilarious ideas you've been scribbling on napkins over the years?
 
-Obviously, your jokes are completely untested and don't have very much to do with the occasion, but as long you mention the bride at the start and end, no-one's going to blame you for testing out a potentially killer standup routine in the middle of your Father of the Bride speech.
+Obviously, your jokes are completely untested and don't have very much to do with the occasion, but as long you mention the Bride at the start and end, no-one's going to blame you for testing out a potentially killer standup routine in the middle of your Father of the Bride speech.
 
 After all, what better way for everyone to remember your daughter's wedding than as the day you became the new Chris Rock!
 
@@ -80,6 +80,6 @@ Look, she knows you love her - so there's really no need to say so in your Fathe
 
 Likewise, it's totally obvious that you're proud of her, the decisions she's made and the woman she's become. Okay, you might not have actually ever said it out loud, but her wedding is hardly the place to start.
 
-Oh, and under no circumstances treat the groom to a heart-felt, man-to-man welcome as the newest member of your family.
+Oh, and under no circumstances treat the Groom to a heart-felt, man-to-man welcome as the newest member of your family.
 
 No need in having him think you're a soft touch from the word go.

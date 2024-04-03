@@ -34,7 +34,7 @@ But try to avoid any cliches or wedding speech jokes borrowed from elsewhere.
 
 Most guests will have travelled at least a short distance to the wedding and incurred some expense so it's important to express your appreciation on behalf of the couple.
 
-Try to keep things general here – you don't want to thank individual attendees since that's more often done by the groom in his speech and you don't want your speech to run too long.
+Try to keep things general here – you don't want to thank individual attendees since that's more often done by the Groom in his speech and you don't want your speech to run too long.
 
 You could say something simple like: "Thanks to all of you for being here. I know it means a lot to Richard and Debbie for you to share their special day."
 
@@ -42,7 +42,7 @@ You could say something simple like: "Thanks to all of you for being here. I kno
 
 Say a quick thank you to the key people who helped pull everything together behind the scenes in the lead-up to the wedding.
 
-Typically, you'd mention your wife or partner for their help and support during the preparations and also thank the groom's parents and welcome them into the family.
+Typically, you'd mention your wife or partner for their help and support during the preparations and also thank the Groom's parents and welcome them into the family.
 
 Traditionally, you'd also mention people who weren't able to make it to the wedding.
 
@@ -56,11 +56,11 @@ You could mention the weather (good or bad) or say something about the venue or 
 
 Obviously you can't script this upfront (that's the whole point!) but you can leave a place for it in your speech and decide what to say on the day.
 
-## 5) Tell stories about the bride
+## 5) Tell stories about the Bride
 
-Next you should shift your attentions to your daughter, the bride.
+Next you should shift your attentions to your daughter, the Bride.
 
-This is really the core of your speech – talking about the bride from your perspective as her father. In fact, I recommend spending around half of the total length of your speech on this section.
+This is really the core of your speech – talking about the Bride from your perspective as her father. In fact, I recommend spending around half of the total length of your speech on this section.
 
 Stories from your daughter's childhood are a reliable source of material. Try to pick stories that are memorable and reflective of her character, particularly her most positive traits.
 
@@ -70,22 +70,22 @@ There are a few different ways of structuring your stories:
 - **Life roles**: pick stories that illuminative her various roles as a person, e.g., daughter, sportswoman, student.
 - **Personal qualities**: pick stories that highlight certain specific qualities, e.g., loyalty, tenacity, adventurousness.
 
-Whatever you choose to say, try to leave the guests feeling that they know the bride a little better by the time you finish.
+Whatever you choose to say, try to leave the guests feeling that they know the Bride a little better by the time you finish.
 
-Who knows, the groom may even learn a thing or too about his new wife he didn't know before!
+Who knows, the Groom may even learn a thing or too about his new wife he didn't know before!
 
-## 6) Mention the groom
+## 6) Mention the Groom
 
-While the primary focus of your speech should always be the bride, you'd be neglecting someone very important if you didn't at least briefly mention her new husband.
+While the primary focus of your speech should always be the Bride, you'd be neglecting someone very important if you didn't at least briefly mention her new husband.
 
-You needn't spend long talking about the groom and you have a few easy options here:
+You needn't spend long talking about the Groom and you have a few easy options here:
 
-- Talk about your first impressions on meeting the groom (assuming they were positive or at least potentially amusing!)
-- Praise the groom's qualities and/or achievements – why he's a worthy person to marry your daughter.
+- Talk about your first impressions on meeting the Groom (assuming they were positive or at least potentially amusing!)
+- Praise the Groom's qualities and/or achievements – why he's a worthy person to marry your daughter.
 - Mention the positive impact he's on your daughter's life, e.g., how supportive he is or how happy he makes her.
 - Talk about how he complements your daughter's personality and why they make such a great couple.
 
-Remember, there would be no wedding without the groom, so spend at least a little of your speech talking about him. And be sure to wrap up by welcoming him to your family!
+Remember, there would be no wedding without the Groom, so spend at least a little of your speech talking about him. And be sure to wrap up by welcoming him to your family!
 
 ## 7) Share words of wisdom
 
@@ -105,11 +105,11 @@ It's time to wrap things up by raising a toast to the Bride and Groom. This sign
 
 You could say something like:
 
-"Ladies and gentlemen, please be upstanding and raise your glasses to Debbie and Richard – the bride and groom!"
+"Ladies and gentlemen, please be upstanding and raise your glasses to Debbie and Richard – the Bride and Groom!"
 
 ## Copy This Template and Get Writing!
 
-Use my father of the bride speech template and you can be confident you're building your speech on solid ground.
+Use my Father of the Bride speech template and you can be confident you're building your speech on solid ground.
 
 Go heading by heading and start writing each essential part of your speech.
 

@@ -51,7 +51,7 @@ Here are some simple ways to raise a toast:
 
 > "Before I hand over to my brand new son-in-law Simon, aka the Groom, please grab your glasses, get on your feet and let's toast the happy couple."
 
-Once you've made your toast, it's time to sit, turn your attention to the groom and let him take over the reins with his own speech.
+Once you've made your toast, it's time to sit, turn your attention to the Groom and let him take over the reins with his own speech.
 
 ## Complete Father of the Bride Speech Examples
 

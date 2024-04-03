@@ -1,7 +1,7 @@
 ---
 title: "6 Best Man Speech Prompts to Get You Started"
 nav_title: "Prompts"
-description: "Get the ball rolling with your best man speech by using these handy prompts to help you generate some quality ideas."
+description: "Get the ball rolling with your Best Man speech by using these handy prompts to help you generate some quality ideas."
 date: 2024-03-27
 image: "/images/posts/best-man-speech-prompts.jpg"
 categories: ["Best Man Speech"]
@@ -9,9 +9,9 @@ tags: [ "Featured" ]
 authors: ["Glen Long"]
 draft: false
 ---
-**So, you’re giving the best man’s speech at an upcoming wedding.**
+**So, you’re giving the Best Man’s speech at an upcoming wedding.**
 
-Congratulations! You must be a very important character in the cast of the groom's life.
+Congratulations! You must be a very important character in the cast of the Groom's life.
 
 That’s presumably why they've given you an important job to match your top dog status: delivering what is essentially the flagship speech at their wedding.
 
@@ -21,19 +21,19 @@ After all, it’s a lot of pressure for you. Particularly if you've never given 
 
 *The good news is that if you can get the ball rolling by generating a few promising ideas, you'll feel a lot more confident very quickly.*
 
-That's why I created this list of best man speech prompts to help you generate the raw material you can mould into a kick-ass best man speech.
+That's why I created this list of Best Man speech prompts to help you generate the raw material you can mould into a kick-ass Best Man speech.
 
 Let’s jump in…
 
 ## 1) How did you first meet?
 
-**Cast your mind back to how you first became friends with the groom.**
+**Cast your mind back to how you first became friends with the Groom.**
 
-Your earliest encounter can set the stage for your unique relationship and history with the groom.
+Your earliest encounter can set the stage for your unique relationship and history with the Groom.
 
 And talking about it early in your speech gives valuable context for the audience for what’s to come.
 
-**Try to remember when and where you first met the groom and what your first impressions of them were.**
+**Try to remember when and where you first met the Groom and what your first impressions of them were.**
 
 Perhaps you met at school or at university or via a mutual friend?
 
@@ -65,9 +65,9 @@ For added depth, think about the reasons behind those changes.
 
 What major events in his life were catalysts for change?
 
-And how has he changed since meeting his bride?
+And how has he changed since meeting his Bride?
 
-Discussing ways the bride has helped the groom mature or brought out the best in him showcases the relationship's positive influence.
+Discussing ways the Bride has helped the Groom mature or brought out the best in him showcases the relationship's positive influence.
 
 ## 3) What are his weirdest habits or traits?
 
@@ -77,7 +77,7 @@ Some of these are invisible to us. Others we know about but try to keep hidden.
 
 **But if anyone knows what they are, it's those people closest to us.**
 
-And as the best man you are well-placed to know the groom’s most peculiar habits and annoying traits.
+And as the Best Man you are well-placed to know the Groom’s most peculiar habits and annoying traits.
 
 So what can he always be relied upon to do or say? In what situations is his behaviour totally predictable? What does he do that annoys or confuses other people?
 
@@ -88,7 +88,7 @@ For instance:
 - Does he have a terrible sense of direction that means he gets himself (and others!) totally lost in new places? Or places that should be familiar?
 - Is there something he thinks he’s good at where those around him know the opposite to be true?
 
-Discussing the groom's funny quirks or idiosyncrasies lets you give him the good-natured “roasting” that guests expect from a best man speech.
+Discussing the Groom's funny quirks or idiosyncrasies lets you give him the good-natured “roasting” that guests expect from a Best Man speech.
 
 Aim to poke fun in a friendly way that isn’t too embarrassing for him and gets laughs of recognition from other people.
 
@@ -102,7 +102,7 @@ So what are the deeds (or misdeeds!) and situations that come up most often in c
 
 When close friends say: “Remember the time when…”, what usually comes next?
 
-**The stories that get retold amongst your group of friends deserve a wider audience and your best man speech may be the perfect opportunity.**
+**The stories that get retold amongst your group of friends deserve a wider audience and your Best Man speech may be the perfect opportunity.**
 
 *Of course, not all stories will be suitable for an event like a wedding where extended family and children are present.*
 
@@ -116,23 +116,23 @@ Stories of fun times you had together make great fuel for your speech, but there
 
 Because as much as people can bond over a shared adventure, it’s the times where you supported each other that show the true strength of your friendship.
 
-So, was there a time when the groom’s support or advice helped you to navigate a difficult situation or tough period in your life?
+So, was there a time when the Groom’s support or advice helped you to navigate a difficult situation or tough period in your life?
 
 It’s possible they don’t realise how much you valued their help in those moments. Your speech is a great opportunity for a heartfelt public thank you.
 
-Yes, people will expect the best man speech to be lighthearted in tone, but a minute or two of sincerity can give your speech real depth and leave a lasting impression on your friend.
+Yes, people will expect the Best Man speech to be lighthearted in tone, but a minute or two of sincerity can give your speech real depth and leave a lasting impression on your friend.
 
 And while we’re in a slightly more serious frame of mind…
 
 ## Q: What do you appreciate most about him?
 
-Guests will expect to hear about some of the groom’s less admirable personal qualities and his more foolhardy decisions.
+Guests will expect to hear about some of the Groom’s less admirable personal qualities and his more foolhardy decisions.
 
-Those topics are ripe for humour and guests will want to laugh at the groom’s expense — it’s part of the tradition of the best man speech.
+Those topics are ripe for humour and guests will want to laugh at the Groom’s expense — it’s part of the tradition of the Best Man speech.
 
-**However, it’s important to add balance by highlighting some of the groom’s best qualities too.**
+**However, it’s important to add balance by highlighting some of the Groom’s best qualities too.**
 
-Taking a moment to sincerely praise the groom's best qualities helps to balance out the ribbing you’ll give him elsewhere in this speech and help to answer the question: why is this person such a valued friend?
+Taking a moment to sincerely praise the Groom's best qualities helps to balance out the ribbing you’ll give him elsewhere in this speech and help to answer the question: why is this person such a valued friend?
 
 Maybe it’s his generosity, or his sense of humour. Maybe it’s his loyalty or his thoughtfulness. Maybe he’s a good listener and always offers sound advice.
 
@@ -142,7 +142,7 @@ And it’ll make you feel better about those parts of your speech which aren’t
 
 ## Ready to Get the Ball Rolling?
 
-When you think about giving your best man speech, it can be daunting.
+When you think about giving your Best Man speech, it can be daunting.
 
 There’s a lot to do to create and deliver a speech that memorable for all the *right* reasons.
 
@@ -150,6 +150,6 @@ But the solution is to just focus on the very next step and forget about the res
 
 If you haven’t started work on your speech yet, your next step is generating some initial ideas.
 
-And that’s exactly what these best man speech prompts are designed to do.
+And that’s exactly what these Best Man speech prompts are designed to do.
 
 So what are you waiting for? Let’s get that ball rolling!

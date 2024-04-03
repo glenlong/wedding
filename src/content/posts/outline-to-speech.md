@@ -39,7 +39,7 @@ Make sure you write conversationally – as if you were relating the points to s
 
 **Here's an example of expanding out a point.**
 
-The outline for a groom speech might include a note that simply says: "How we met". During the _Expand_ step this could become:
+The outline for a Groom speech might include a note that simply says: "How we met". During the _Expand_ step this could become:
 
 > Jenny and I met three years ago at my sister's birthday celebration. Although we didn't speak very much I thought she was really nice and spent the next two weeks building up the courage to ask Sis for her number. Amazingly she agreed to a date and…
 
@@ -49,7 +49,7 @@ During the outlining process, I asked you to think about what each of your main 
 
 The reason for this was to give you a simple way to lead into some of your stories.
 
-For instance, if the father of the bride has a story about his daughter which shows that she doesn't give up easily, he could introduce it like this:
+For instance, if the Father of the Bride has a story about his daughter which shows that she doesn't give up easily, he could introduce it like this:
 
 > Those of you who know Karen well will agree that she doesn't give up easily once she's set herself a goal. This was true even from a young age and I remember one particular time when…
 
@@ -57,11 +57,11 @@ It's a simple technique but much more effective that simply dropping into the st
 
 ### Any other relevant information?
 
-As you're writing out your speech draft, make sure you include enough information for people to follow what you're saying. Remember, not everyone will be as familiar with the bride or groom as you and so you might need to add a little background detail.
+As you're writing out your speech draft, make sure you include enough information for people to follow what you're saying. Remember, not everyone will be as familiar with the Bride or Groom as you and so you might need to add a little background detail.
 
 **Here's an example:**
 
-The best man might have a fun story about the time the groom made a fool of himself on the ski slopes. To make sure everyone enjoys the tale, he might want to set things up first:
+The Best Man might have a fun story about the time the Groom made a fool of himself on the ski slopes. To make sure everyone enjoys the tale, he might want to set things up first:
 
 > As many of you will know, James spent a summer as a ski instructor and considers himself quite the snow pro…
 
@@ -73,7 +73,7 @@ The goal of this step is to improve the flow of your speech by adding short link
 
 **Here's an example of how to link to adjacent ideas from your outline:**
 
-Imagine you're writing the father of the bride speech, and you want to link between two unrelated stories from your daughter's childhood.
+Imagine you're writing the Father of the Bride speech, and you want to link between two unrelated stories from your daughter's childhood.
 
 Let's say the first story is about the time she went to a birthday party dressed as a fairy and liked the costume so much she refused to take it off for a week.
 
@@ -89,7 +89,7 @@ Another trick for making your speech feel more connected is 'signposting'.
 
 This is where you mention a future section of your speech before you actually reach it.
 
-For example, the groom might say: "Before I wax lyrical about Sarah's many fine qualities, I'd like to tell the story of how we met".
+For example, the Groom might say: "Before I wax lyrical about Sarah's many fine qualities, I'd like to tell the story of how we met".
 
 When he then talks about the qualities he loves in his new wife, it feels connected to the "how we met" story, because the audience is already anticipating it.
 

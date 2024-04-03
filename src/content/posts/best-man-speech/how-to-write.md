@@ -1,7 +1,7 @@
 ---
 title: "How to Write a Best Man Speech (6 Easy Steps)"
 nav_title: "How to Write"
-description: "Wondering how to write your best man speech? Don't worry, it's not rocket science. Just follow these six easy steps."
+description: "Wondering how to write your Best Man speech? Don't worry, it's not rocket science. Just follow these six easy steps."
 date: 2024-01-03
 image: "/images/posts/best-man-speech-how-to-write.jpg"
 categories: ["Best Man Speech"]
@@ -9,13 +9,13 @@ tags: [ "Featured" ]
 authors: ["Glen Long"]
 draft: false
 ---
-So, it happened. You were asked to be the best man at a close friend or relative’s upcoming wedding. And of course, you said yes!
+So, it happened. You were asked to be the Best Man at a close friend or relative’s upcoming wedding. And of course, you said yes!
 
-But now that means you have to write and deliver a best man speech, and maybe you don't have a clue where to start.
+But now that means you have to write and deliver a Best Man speech, and maybe you don't have a clue where to start.
 
 After all, it's not something you do every day!
 
-If you're feeling unsure then don’t worry, you're in the right place. I'm going to tell you exactly how to write a best man speech.
+If you're feeling unsure then don’t worry, you're in the right place. I'm going to tell you exactly how to write a Best Man speech.
 
 And the good news is it's not rocket science. It's just a sequence of logical steps.
 
@@ -27,16 +27,16 @@ One of the easiest mistakes to make is assuming that things will run a certain w
 
 To avoid any nasty surprises, find out in advance how the wedding day and the speeches will be organised. Because things may be a little different to what you expect.
 
-Here are some smart questions to ask the groom before you get started:
+Here are some smart questions to ask the Groom before you get started:
 
 - What's the date of the wedding (basic but crucial!)
 - Where do the speeches fit into the overall schedule?
-- Who else is scheduled to speak and in what order? (Usually it's the father of the bride, then the groom, then the best man, but there are lots of possible variations.)
+- Who else is scheduled to speak and in what order? (Usually it's the Father of the Bride, then the Groom, then the Best Man, but there are lots of possible variations.)
 - Are there any specific time constraints you need to be aware of?
-- Are there any topics that the groom would prefer you to avoid?
-- Are there specific stories the groom will mention in his speech (so you can avoid duplicating them in yours)?
+- Are there any topics that the Groom would prefer you to avoid?
+- Are there specific stories the Groom will mention in his speech (so you can avoid duplicating them in yours)?
 
-The groom may not have all the answers to hand, but just getting a few answers can give you confidence to start working on your speech.
+The Groom may not have all the answers to hand, but just getting a few answers can give you confidence to start working on your speech.
 
 ## Step 2: Brain-dump Lots of Ideas
 
@@ -48,21 +48,21 @@ You don't need to worry about structure or flow or anything like that, you’re 
 
 Your aim is just to generate as many possible topics as possible that *could* be used somewhere in your speech.
 
-(Imagine these as the basic building materials you’ll use to assemble your best man speech.)
+(Imagine these as the basic building materials you’ll use to assemble your Best Man speech.)
 
 Here are some questions to ask yourself while in this mode:
 
-- How did you first meet the groom?
+- How did you first meet the Groom?
 - What are his best (and worst) qualities?
 - What are the most memorable moments from your friendship?
 - What are the “running jokes” you share?
 - What makes him and his new wife a good match?
 - What advice do you want to pass on to your friend?
-- What tips can you give his bride for life with him?
+- What tips can you give his Bride for life with him?
 
 More so than other speeches in the traditional wedding line-up you’ll want to look for ideas that present an opportunity for humour.
 
-*Remember: a genuinely funny best man speech isn't just one that's littered with off-the-shelf jokes. It's one where you draw humour from real-life observations and situations that are specific to your friend.*
+*Remember: a genuinely funny Best Man speech isn't just one that's littered with off-the-shelf jokes. It's one where you draw humour from real-life observations and situations that are specific to your friend.*
 
 (For more help with generating ideas, you can also check out my list of Best Man Speech Prompts.)
 
@@ -74,17 +74,17 @@ There are lots of different structures you can use, and the best one will depend
 
 Here are some possible structures:
 
-- **Chronological** — if you’ve known the groom for a long time you can structure your speech around key phases of his life: e.g., school days, early adulthood, first job, etc. It’s usually best to work your way forwards from your earliest memory to the present day.
-- **Perspectives** — another option is to look at the groom from a few different perspectives. For instance, what’s he like as a friend, as a sportsman, as a travelling companion, as a drinking buddy, etc.? What’s he like in his professional life compared with his personal life?
-- **Characteristics** — you could also organise your speech according to the groom’s most striking qualities or characteristics. You could talk about his loyalty, his determination, his sense of fun, his ambition, and so on, illustrating each one with examples and stories.
+- **Chronological** — if you’ve known the Groom for a long time you can structure your speech around key phases of his life: e.g., school days, early adulthood, first job, etc. It’s usually best to work your way forwards from your earliest memory to the present day.
+- **Perspectives** — another option is to look at the Groom from a few different perspectives. For instance, what’s he like as a friend, as a sportsman, as a travelling companion, as a drinking buddy, etc.? What’s he like in his professional life compared with his personal life?
+- **Characteristics** — you could also organise your speech according to the Groom’s most striking qualities or characteristics. You could talk about his loyalty, his determination, his sense of fun, his ambition, and so on, illustrating each one with examples and stories.
 
 *Note: Different structures will also give your speech a different “feel” so think about the style and tone you’d like to aim for.*
 
 You can also combine these structures to suit your needs. You could even choose a more novel structure driven by a big idea.
 
-For instance, what if you structured your speech as a fairy tale with the groom as an intrepid hero who has to overcome different challenges to win the heart of the princess (his bride)?
+For instance, what if you structured your speech as a fairy tale with the Groom as an intrepid hero who has to overcome different challenges to win the heart of the princess (his Bride)?
 
-Or you could structure your speech as a business presentation, complete with PowerPoint slides, which describes the “features and benefits” of the groom as if he were a new product.
+Or you could structure your speech as a business presentation, complete with PowerPoint slides, which describes the “features and benefits” of the Groom as if he were a new product.
 
 If you’re not sure what structure to use, look at your list of brainstormed ideas and see if they fall naturally into a set of categories.
 
@@ -106,9 +106,9 @@ Here’s what a simple outline of your speech might look like:
 
 ### Introduction
 
-- Introduce myself as the best man and childhood friend
+- Introduce myself as the Best Man and childhood friend
 - Make a joke about how weird it is to see him dressed so smartly
-- Apologise in advance to the bride for what I’m about to reveal about Jason
+- Apologise in advance to the Bride for what I’m about to reveal about Jason
 
 ### School days
 
@@ -134,7 +134,7 @@ Here’s what a simple outline of your speech might look like:
 - Talk about the time he used his annual bonus to pay for a big night out for all his friends to thank them for their generosity when he was a skint student
 - Compliment him on his work ethic and the success he’s created for himself in life
 
-### Talk about the bride
+### Talk about the Bride
 
 - Describe the time he introduced me to Caroline for the first time (and how I didn’t make the greatest impression on her)
 - Tell the story of the holiday to Turkey where he invited her along and I got to know her properly (and had the chance to make a better impression)
@@ -183,7 +183,7 @@ Have a pencil to hand and make notes over any sections that need tweaking to mak
 
 *Note: You’ll need to “rinse and repeat” to evolve your speech into the finished version.* 
 
-Once you’re fairly happy with your speech content, you can give your speech in front of a trusted friend or relative to get an external perspective (not the groom though — his first exposure to your speech should be on the wedding day).
+Once you’re fairly happy with your speech content, you can give your speech in front of a trusted friend or relative to get an external perspective (not the Groom though — his first exposure to your speech should be on the wedding day).
 
 Getting feedback from someone else will help you understand if the parts you intend to be funny seem funny to other people too. Ask them to be candid about what works and what doesn’t.
 
@@ -193,7 +193,7 @@ Once you’re happy with you speech there’s no need to memorise it word for wo
 
 ## Go Write Your Best Man Speech!
 
-It’s time to stop wondering *how* to write your best man speech and just get on and do it. Because the truth is that these six steps are all you need.
+It’s time to stop wondering *how* to write your Best Man speech and just get on and do it. Because the truth is that these six steps are all you need.
 
 Why not make life easier for yourself by writing your speech over a couple of weeks, rather than squeezing it into one afternoon the day before the wedding?
 

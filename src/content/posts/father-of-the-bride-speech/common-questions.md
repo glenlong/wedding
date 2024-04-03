@@ -1,7 +1,7 @@
 ---
 title: "Father of the Bride Speech: Common Questions"
 nav_title: "Common Questions"
-description: "If you've never given a father of the bride speech before, you may have some questions. Let's answer the most common ones."
+description: "If you've never given a Father of the Bride speech before, you may have some questions. Let's answer the most common ones."
 date: 2020-03-01
 image: "/images/posts/father-of-the-bride-speech-common-questions.jpg"
 categories: ["Father of the Bride Speech"]
@@ -15,11 +15,11 @@ draft: false
 
 The traditional order of the wedding speakers is as follows:
 
-1. Father of the bride (that’s you!)
+1. Father of the Bride (that’s you!)
 2. Groom
 3. Best man
 
-However, in reality this order is just a convention. These days other members of the wedding party may feature in the list of speakers, for instance: maid of honour, mother of the bride, father of the groom, etc. These more contemporary roles may replace traditional roles or be in addition to the traditional line-up.
+However, in reality this order is just a convention. These days other members of the wedding party may feature in the list of speakers, for instance: Maid of Honour, Mother of the Bride, Father of the Groom, etc. These more contemporary roles may replace traditional roles or be in addition to the traditional line-up.
 
 Whatever the case, the most important thing for you to do is to confirm exactly who’s speaking at your daughter’s wedding and where your speech fits into the overall itinerary.
 
@@ -29,7 +29,7 @@ There are no hard and fast rules, but there are certain things the Father of the
 
 - As the first speaker, it’s the Father of the Bride’s job to officially **welcome the guests**.
 - He will usually **mention any absent or deceased family or friends**.
-- His other official duty is to **raise the first toast** to the bride and groom.
+- His other official duty is to **raise the first toast** to the Bride and Groom.
 
 ## Who does the Father of the Bride thank in his speech?
 
@@ -37,9 +37,9 @@ Traditionally, the Father of the Bride thanks:
 
 - the **guests** for coming to the wedding
 - his **wife or partner** for their support and any help with the wedding preparations
-- the **groom’s parents** for their help and hospitality in the run-up to the speech
+- the **Groom’s parents** for their help and hospitality in the run-up to the speech
 
-In general, the father of the bride should keep his thanks to a minimum beyond these three points. It’s the groom job to do the bulk of the thank yous.
+In general, the Father of the Bride should keep his thanks to a minimum beyond these three points. It’s the Groom's job to do the bulk of the thank yous.
 
 ### How long should the Father of the Bride speech be?
 
@@ -47,7 +47,7 @@ The Father of the Bride speech shouldn’t be more than ten minutes long with 6 
 
 That’s because however confident or accomplished you are as a speaker, it’s important to remember that you’re essentially a warm up act for the other speakers.
 
-An overlong speech risks stealing the thunder of the groom and best man and making you look self-indulgent.
+An overlong speech risks stealing the thunder of the Groom and Best Man and making you look self-indulgent.
 
 ## Does the Father of the Bride have to give a speech?
 

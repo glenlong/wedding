@@ -13,7 +13,7 @@ If your daughter’s wedding is fast approaching, it won’t have escaped your a
 
 Traditionally the Father of the Bride Speech is warm and welcoming and includes fond words about her and memories of her growing up.
 
-And while there isn’t the same pressure on you to be as entertaining as, say, the best man, a personal and gently humorous speech will definitely kick things off on the right note.
+And while there isn’t the same pressure on you to be as entertaining as, say, the Best Man, a personal and gently humorous speech will definitely kick things off on the right note.
 
 But what if you’re stuck for ideas? There’s nothing more daunting than a blank page staring back at you. Do not fear…
 
@@ -53,7 +53,7 @@ Most of us have had fashion experiments go badly wrong – or at least briefly s
 
 Sometimes these brave fashion statements need to be brought to a wider audience and what better occasion than the wedding?
 
-While the bride might not initially be ecstatic to see that photo of her in the middle of her “goth” phase blown up to poster size, the guests will love it – and she’s bound to see the funny side too.
+While the Bride might not initially be ecstatic to see that photo of her in the middle of her “goth” phase blown up to poster size, the guests will love it – and she’s bound to see the funny side too.
 
 ## 4) Rescue a Faithful Old Toy
 
