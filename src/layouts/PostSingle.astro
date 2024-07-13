@@ -43,11 +43,14 @@ const category = categories[0];
         <div class="content text-left">
           <Content />
         </div>
+
       </div>
     </article>
     
-    { show_cta && <CTA title="Want my Free Resource Pack?" bg_color="bg-violet-50" url={'/resource-pack/' + slugify(category) + "/"} btn_text="Yes I Want It!" } >Get templates, prompts, tips and other handy resources to help you create a knockout {category}.</CTA> }
-    
+    { false && <CTA title="Want my Free Resource Pack?" bg_color="bg-violet-50" url={'/resource-pack/' + slugify(category) + "/"} btn_text="Yes I Want It!" } >Get templates, prompts, tips and other handy resources to help you create a knockout {category}.</CTA> }
+
+    { show_cta && <CTA title="Buy me a Beer? 🍺" bg_color="bg-yellow-50" btn_color="bg-orange-400" url={'https://buymeacoffee.com/weddingspeechcoach'} btn_text="Let's Do It!" } >If this site has helped you with your {category} why not say thanks by buying me a (virtual) beer?</CTA> }
+
   </div>
 </section>
 

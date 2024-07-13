@@ -1,8 +1,8 @@
 ---
-const { title, bg_color, url, btn_text } = Astro.props;
+const { title, bg_color, btn_color, url, btn_text } = Astro.props;
 ---
   <div class="container px-4 mx-auto mt-8 mb-8">
-    <div class="p-12 bg-gray-50 rounded-lg">
+    <div class={bg_color + ' p-12  rounded-lg'}>
       <div class="flex flex-wrap items-center -mx-4">
         <div class="w-full md:w-3/4 px-4">
           <div class="lg:ml-auto mb-5 lg:mb-0">
@@ -13,7 +13,7 @@ const { title, bg_color, url, btn_text } = Astro.props;
         <div class="w-full md:w-1/4 px-4">
             <div class="flex max-w-md">
               <a href={url}>
-              <button class="inline-block px-5 py-3 text-md bg-primary text-white font-semibold rounded transition duration-200">{btn_text}</button>
+              <button class={btn_color + ' inline-block px-5 py-3 text-md bg-primary text-white font-semibold rounded transition duration-200'}>{btn_text}</button>
               </a>
             </div>
         </div>
