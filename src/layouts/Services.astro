@@ -1,0 +1,46 @@
+---
+import { markdownify } from "@/lib/utils/textConverter";
+import { Image } from "astro:assets";
+import { BsArrowRightCircle } from "react-icons/bs";
+import type { TService } from "@/types";
+import { sortByOrder } from "@/lib/utils/sortFunctions";
+
+const { services } = Astro.props;
+const sortedServices = sortByOrder(services);
+---
+
+<div class="row justify-center">
+  {
+    sortedServices.map((service: TService) => (
+      <div class="col-12 mb-8 sm:col-6 md:col-4">
+        {service.data.image && (
+          <div class="mb-4">
+          <a
+            href={`/services/${service.slug}/`}
+            class="block hover:text-primary transition duration-200"
+          >
+            <Image
+              src={service.data.image}
+              alt={service.data.title}
+              height={300}
+              width={300}
+              class={'mx-auto rounded-xl p-4 pb-0 ' + service.data.image_bg_color}
+            />
+            </a>
+          </div>
+        )}
+        <h3 class="h3 mt-8">
+          <a
+            href={`/services/${service.slug}/`}
+            class="block hover:text-primary transition duration-200"
+          >
+            {service.data.title}
+          </a>
+        </h3>
+        <h4 class="h2 mt-2">&pound;{service.data.price}</h4>
+        <p class="mt-4">{service.data.description}</p>
+        <p class="mt-4"><button class="btn btn-primary mt-2" type="submit">Find Out More</button></p>
+      </div>
+    ))
+  }
+</div>

@@ -6,6 +6,7 @@ image: "/images/posts/groom-speech-example-funny.jpg"
 categories: ["Groom Speech"]
 tags: [ "Featured" ]
 authors: ["Glen Long"]
+show_cta: true
 draft: false
 ---
 If you're looking for inspiration for your Groom speech, an example can help.

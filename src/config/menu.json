@@ -5,6 +5,10 @@
       "url": "/"
     },
     {
+      "name": "Services",
+      "url": "/services/"
+    },
+    {
       "name": "About",
       "url": "/about/"
     },
@@ -21,6 +25,10 @@
     {
       "name": "Blog",
       "url": "/blog/"
+    },
+    {
+      "name": "Services",
+      "url": "/services/"
     },
     {
       "name": "Contact",

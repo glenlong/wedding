@@ -1,0 +1,37 @@
+---
+import { Image } from "astro:assets";
+import ServiceSingle from "@/layouts/ServiceSingle.astro";
+import Base from "@/layouts/Base.astro";
+import { getSinglePage } from "@/lib/contentParser.astro";
+import dateFormat from "@/lib/utils/dateFormat";
+
+import { sortByDate } from "@/lib/utils/sortFunctions";
+import { humanize, slugify } from "@/lib/utils/textConverter";
+import { BiCalendarEdit, BiCategoryAlt } from "react-icons/bi";
+
+export async function getStaticPaths() {
+  const servicePages = await getSinglePage("services");
+
+  const paths = servicePages.map((servicePage: any) => ({
+    params: {
+      service: servicePage.slug,
+    },
+    props: { servicePage },
+  }));
+  return paths;
+}
+
+const { servicePage } = Astro.props;
+const { title, meta_title, description, image } = servicePage.data;
+
+---
+
+<Base
+  title={title}
+  meta_title={meta_title}
+  description={description}
+  image={image}
+>
+  <ServiceSingle service={servicePage} />
+
+</Base>

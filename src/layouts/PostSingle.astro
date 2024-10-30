@@ -47,11 +47,10 @@ const category = categories[0];
       </div>
     </article>
     
-    { false && <CTA title="Want my Free Resource Pack?" bg_color="bg-violet-50" url={'/resource-pack/' + slugify(category) + "/"} btn_text="Yes I Want It!" } >Get templates, prompts, tips and other handy resources to help you create a knockout {category}.</CTA> }
-
-    { show_cta && <CTA title="Buy me a Beer? 🍺" bg_color="bg-yellow-50" btn_color="bg-orange-400" url={'https://buymeacoffee.com/weddingspeechcoach'} btn_text="Let's Do It!" } >If this site has helped you with your {category} why not say thanks by buying me a (virtual) beer?</CTA> }
-
   </div>
+  
+{ show_cta && <CTA title={'Need Help with Your ' + category + '?'} bg_color="bg-yellow-50" btn_color="bg-orange-400" url="/services/" btn_text="Find Out More" } >If you need help creating a unique, memorable { category }, I can help! I offer expert feedback, editing, and bespoke speechwriting.</CTA> }
+
 </section>
 
 <!-- similar posts -->

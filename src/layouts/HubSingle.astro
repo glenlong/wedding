@@ -55,11 +55,8 @@ const preamble = await getEntryBySlug("snippets", preambleSlug);
       <Content />
     </div>
   </div>
-  
-  { false && <CTA title="Need a Little Extra Help?" bg_color="bg-violet-50" url="/contact/" btn_text="Contact Me" } >Drop me a line and tell me where you're struggling with your {nav_title}. There's a good chance I can help!</CTA> }
 
-{ show_cta && <CTA title="Buy me a Beer? 🍺" bg_color="bg-yellow-50" btn_color="bg-orange-400" url="https://buymeacoffee.com/weddingspeechcoach" btn_text="Let's Do It!" } >If this site has helped you with your {nav_title} why not say thanks by buying me a (virtual) beer?</CTA> }
-
+{ show_cta && <CTA title={'Need Help with Your ' + nav_title + '?'} bg_color="bg-yellow-50" btn_color="bg-orange-400" url="/services/" btn_text="Find Out More" } >If you need help creating a unique, memorable { nav_title }, I can help! I offer expert feedback, editing, and bespoke speechwriting.</CTA> }
 
   <div class="container">
     <div>
@@ -68,8 +65,5 @@ const preamble = await getEntryBySlug("snippets", preambleSlug);
     </div>
     <Posts posts={sortedPosts} fluid={false} />
   </div>
-  
-{ false && <CTA title="Want my Free Resource Pack?" bg_color="bg-violet-50" url={'/resource-pack/' + slug + "/"} btn_text="Yes I Want It!" } >Get templates, prompts, tips and other handy resources to help you create a knockout {nav_title}.</CTA> }
-
 
 </section>

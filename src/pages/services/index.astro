@@ -1,0 +1,34 @@
+---
+import config from "@/config/config.json";
+import Services from "@/layouts/Services.astro";
+import Base from "@/layouts/Base.astro";
+import Pagination from "@/layouts/components/Pagination.astro";
+import { getSinglePage } from "@/lib/contentParser.astro";
+import { sortByDate } from "@/lib/utils/sortFunctions";
+import { markdownify } from "@/lib/utils/textConverter";
+
+const services = await getSinglePage("services");
+const sortedPosts = sortByDate(services);
+const totalPages = Math.ceil(services.length / config.settings.pagination);
+const currentPosts = sortedPosts.slice(0, config.settings.pagination);
+---
+
+<Base title={config.site.title}
+      description={config.site.description}
+  >
+  <section class="section">
+    <div class="container text-center">
+      <div class="page-heading mb-8">
+        <h1 class="h1 text-3xl">
+          Need Some Help with your Speech?
+        </h1>
+        <p class="h2 font-normal mt-4">I'll help you create a memorable and crowd-pleasing speech
+        </p>
+        <p class="h3 font-normal">
+        (and no-one will even know you got a little extra help!)
+        </p>
+      </div>
+      <Services services={currentPosts} />
+    </div>
+  </section>
+</Base>

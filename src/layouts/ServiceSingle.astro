@@ -1,0 +1,53 @@
+---
+import { Image } from "astro:assets";
+import { getEntryBySlug } from "astro:content";
+import Posts from "@/layouts/Posts.astro";
+import CTA from "@/layouts/components/CTA.astro";
+import Snippet from "@/layouts/components/Snippet.astro";
+import { humanize, markdownify } from "@/lib/utils/textConverter";
+import { getSinglePage } from "@/lib/contentParser.astro";
+import taxonomyFilter from "@/lib/utils/taxonomyFilter";
+import { sortByOrder } from "@/lib/utils/sortFunctions";
+
+const { service } = Astro.props;
+const { title, meta_title, nav_title, description, image, image_bg_color, banner_bg_color, price, buy_url } = service.data;
+const { slug } = service;
+const { Content } = await service.render();
+---
+
+<section class={'section pt-8 pb-4 ' + banner_bg_color} >
+<div class="container">
+    <div class="row md:gx-4">
+      <div class="sm:col-5 md:col-4">
+        {
+          image && (
+            <div class="img-cover mb-8">
+              <Image
+                src={image}
+                width={300}
+                height={300}
+                alt={title}
+                class={'rounded-lg w-full p-4 pb-0'}
+              />
+            </div>
+          )
+        }
+      </div>
+      <div class="sm:col-7 md:col-8">
+        <h1 class="h1">{title}</h1>
+        <p class="mt-4">{description}</p>
+        <h2 class="h2 mt-4">Price: &pound;{price}</h2>
+        <p class="mt-4"><a href={buy_url}><button class="btn btn-primary mt-2" type="submit">Buy Now</button></a></p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section pt-8">
+  <div class="container">
+    <div class="content">
+      <Content />
+    </div>
+  </div>
+
+</section>
