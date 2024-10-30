@@ -39,7 +39,14 @@ const sortedServices = sortByOrder(services);
         </h3>
         <h4 class="h2 mt-2">&pound;{service.data.price}</h4>
         <p class="mt-4">{service.data.description}</p>
-        <p class="mt-4"><button class="btn btn-primary mt-2" type="submit">Find Out More</button></p>
+        <p class="mt-4">
+          <a
+            href={`/services/${service.slug}/`}
+            class="block hover:text-primary transition duration-200"
+          >
+        <button class="btn btn-primary mt-2" type="submit">Find Out More</button>
+        </a>
+        </p>
       </div>
     ))
   }
