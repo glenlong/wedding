@@ -1,7 +1,7 @@
 ---
 title: "Speech Writing Service"
 nav_title: "Speech Writing"
-description: "I'll write a unique, entertaining speech based on information provided by you that's fun and easy to deliver."
+description: "You provide the raw material and I'll craft a unique, memorable speech that's fun and easy to deliver."
 image: "/images/writing.png"
 image_bg_color: "bg-slate-100"
 banner_bg_color: "bg-slate-100"

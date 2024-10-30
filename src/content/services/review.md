@@ -1,7 +1,7 @@
 ---
 title: "Speech Review Service"
 nav_title: "Review"
-description: "I'll review your speech draft and give you detailed feedback so you can make it as good as possible."
+description: "I'll review your speech draft and give you feedback so you know exactly what to change to make it as good as possible." 
 image: "/images/review.png"
 image_bg_color: "bg-slate-100"
 banner_bg_color: "bg-slate-100"

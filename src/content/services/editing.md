@@ -1,7 +1,7 @@
 ---
 title: "Speech Editing Service"
 nav_title: "Editing"
-description: "I'll expertly edit and polish your speech draft to make it shine while keeping it in your voice."
+description: "I'll expertly edit and polish your speech draft to make it shine, while maintaining your unique voice and tone."
 image: "/images/editing.png"
 image_bg_color: "bg-slate-100"
 banner_bg_color: "bg-slate-100"
@@ -10,7 +10,7 @@ order: 2
 buy_url: https://buy.stripe.com/9AQ02o3m33tSgaA3cd
 ---
 ## How It Works
-I will edit a draft of your speech (up to 1,200) to improve the clarity, structure and flow. I will also make up to two further revisions based on your feedback.
+I will edit a draft of your speech (up to 1,200 words) to improve the clarity, structure and flow. I will also make up to two further revisions based on your feedback.
 
 The redraft may include:
 - improving wording to make the speech easier to deliver and understand

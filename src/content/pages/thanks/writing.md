@@ -13,7 +13,7 @@ When you're ready, please email info@weddingspeechcoach.com with the following i
 
 **I'll confirm receipt of your speech by email (usually within 24 hours) and send you some prompt questions to help me gather the material I'll need to write the first draft.**
 
-*Note: I'll aim to send you an edited version of your speech within 72 hours of receiving your answers.*
+*Note: I'll aim to send you the first draft of your speech within 72 hours of receiving your answers.*
 
 **I'm looking forward to working with you!**
 
