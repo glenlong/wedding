@@ -9,25 +9,26 @@ price: 399
 order: 3
 buy_url: https://buy.stripe.com/7sI16s2hZ5C0gaAcMO
 ---
-## How It Works
+## ⚙️ How It Works
 
-I will write a speech from scratch based on information provided by you.
+**I'll write an original and engaging speech from scratch based on information provided by you.**
 
-This will be an original speech (up to 1,200 words) tailored specifically to your event and the key people involved.
+The speech (up to 1,200 words) tailored specifically to your event and the key people involved.
 
-I will use my experience to produce a well-structured speech, with a clear flow of ideas and entertaining content.
+First, I will ask you some questions about the event to gather all of the information I need.
 
-While writing the speech I will take into account:
+Once I have all the raw material, I will use my experience to produce a rich and personal speech, with a clear flow of ideas and engaging content.
+
+**While writing the speech I will take into account:**
 - the size and ‘tone’ of the wedding (small, informal or large, formal)
 - your level of experience/comfort in delivering a speech
-- your desired tone
+- your personality and the desired tone for your speech
 
-### Pricing
+## 🪧 Alternative Options
 
-£249 (inc. VAT)
+- If you already have a speech draft and would like expert feedback so that you can improve it yourself, see my [Speech Review Service](/services/review/).
+- If you have a draft and would like me edit and polish it for you until you're happy, check out my [Speech Editing Service](/services/editing/).
 
-## Other Services
+## 🤔 Any Questions?
 
-If you already have a draft of your speech and simply want some expert feedback, take a look at the Speech Review service.
-
-If you have a draft but would like me to review it and rewrite it for you, see the Speech Redraft service.
+If you still have questions, no problem! Just drop me a link via my [Contact form](/contact/).

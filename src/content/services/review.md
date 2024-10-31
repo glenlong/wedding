@@ -9,25 +9,27 @@ price: 149
 order: 1
 buy_url: https://buy.stripe.com/7sI7uQ09RggE5vWaEE
 ---
-## How It Works
+## ⚙️ How It Works
 
-This starts with you providing a full-length draft of your speech (maximum 1,200 words).
+**This starts with you sending me a full-length draft of your speech (maximum 1,200 words).**
 
-I will review it in detail and provide specific recommendations in the form of a report, paying particular attention to helping you improve:
-- overall structure
-- transitions between different ideas
-- additional opportunities for humour
+I will review it in detail and provide specific recommendations in the form of a report.
 
-I will also advise on:
+**I will pay particular attention to helping you improve:**
+- the overall structure of the speech
+- the transitions between different ideas
+- any additional opportunities for humour
+
+**I will also advise on:**
 - appropriate tone
-- originality
-- any traditional duties that have been left out
+- originality of ideas
+- traditional duties to be included
 
-### Price
-&pound;149
+## 🪧 Alternative Options
 
-## Other Services
+- Instead of getting feedback, if you would like me edit and polish your speech for you, check out my [Speech Editing Service](/services/editing/).
+- If you're struggling to write a whole speech and would like me to write it for you with your guidance, see my [Speech Writing Service](/services/writing/).
 
-If you would like me edit your speech directly instead of providing feedback, check out the Speech Editing Service.
+## 🤔 Any Questions?
 
-If you're struggling to write a speech and would like me to write it for you, see the Speech Writing service.
+If you still have questions, no problem! Just drop me a link via my [Contact form](/contact/).
